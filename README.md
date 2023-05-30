@@ -4,4 +4,4 @@ Guessing Game Project
 
 ## Usage
 
-'guessing game' - 
+'guessing game project' - more to come...
